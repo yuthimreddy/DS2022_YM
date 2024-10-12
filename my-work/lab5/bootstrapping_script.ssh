@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#This is what I pasted for my EC2 bootstrap:
+#!/bin/bash
+
+/usr/bin/apt update -y
+/usr/bin/apt upgrade -y
+/usr/bin/apt install -y git 
+/usr/bin/python3 -m pip install pandas
+/usr/bin/apt install jq python3-pip python3-dev-nginx -y
+
+
+#the packages installed correctly when I was running the commands in the video, such as "json" and "git".
+
+#however, I was running into authentication issues when trying to connect my SSH key
+# My key was working perfectly fine when we were running the joke_logger script and 
+#I was able to shell in fine, but I keep getting security errors when trying to 
+#clone my git repo when running ubuntu. 
+
+#I tried using ChatGPT to help resolve the ssh issue but the solutions are not working either
+
+
