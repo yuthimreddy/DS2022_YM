@@ -8,7 +8,7 @@
 /usr/bin/apt install -y git 
 /usr/bin/python3 -m pip install pandas
 /usr/bin/apt install jq python3-pip python3-dev-nginx -y
-
+/bin/pip3 install boto3 pandas requests
 
 #the packages installed correctly when I was running the commands in the video, such as "json" and "git".
 
