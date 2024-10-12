@@ -12,12 +12,5 @@
 
 #the packages installed correctly when I was running the commands in the video, such as "json" and "git".
 
-#however, I was running into authentication issues when trying to connect my SSH key
-# My key was working perfectly fine when we were running the joke_logger script and 
-#I was able to shell in fine, but I keep getting security errors when trying to 
-#clone my git repo when running ubuntu. 
-
-#I tried using ChatGPT to help resolve the ssh issue but the solutions are not working either
-
-#Wasn't sure how to resolve it, so I just created and saved the script in linux, apologies for the inconvenience
+#not sure if I was supposed to do another step or if I missed something but the packages were running when I issued commands
 
