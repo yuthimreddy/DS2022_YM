@@ -11,6 +11,6 @@
 /bin/pip3 install boto3 pandas requests
 
 #the packages installed correctly when I was running the commands in the video, such as "json" and "git".
+#pytohn3, jq, and git worked
 
-#not sure if I was supposed to do another step or if I missed something but the packages were running when I issued commands
-
+#Unsure if I needed to attach anything else regarding the lab submission, apologies in advance
